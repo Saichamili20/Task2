@@ -1,18 +1,18 @@
-# 🏆 Adidas Sales Dashboard (Power BI Project)
+#  Adidas Sales Dashboard (Power BI Project)
 
 This project is a **Power BI sales analysis dashboard** built using the *Adidas US Sales Dataset*. The dashboard provides a comprehensive overview of retailer performance, product sales, state-wise profit distribution, and sales trends — enabling data-driven business insights for decision-makers.
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
-### 🔹 KPIs (Top Cards)
+###  KPIs (Top Cards)
 - **Total States Covered**: 50
 - **Total Profit**: $332.13M
 - **Total Operating Margin**: 4.08K
 - **Total Retailers**: 6
 
-### 🔹 Visualizations
+### Visualizations
 
 1. **Funnel Chart**:  
    - *Units Sold by State and Retailer*  
@@ -40,7 +40,7 @@ This project is a **Power BI sales analysis dashboard** built using the *Adidas 
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **West Gear** leads in unit sales and profit among all retailers.
 - **Men’s Street Footwear** is the top-selling product category.
@@ -50,7 +50,7 @@ This project is a **Power BI sales analysis dashboard** built using the *Adidas 
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - **Power BI Desktop**
 - Microsoft Excel (.xlsx dataset)
@@ -59,7 +59,7 @@ This project is a **Power BI sales analysis dashboard** built using the *Adidas 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains sales records for Adidas products across the US, including:
 
@@ -72,5 +72,5 @@ The dataset contains sales records for Adidas products across the US, including:
 
 ---
 
-## 📁 File Structure
+
 
